@@ -1,2 +1,2 @@
 # Selection-Sort-Algorithm
- Group Assignment of Programming Language Implementation and Paradigms (CPT316)
+ Group Assignment of Programming Language Implementation and Paradigms (CPT316) Course.
