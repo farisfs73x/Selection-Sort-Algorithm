@@ -1,7 +1,7 @@
 # Selection-Sort-Algorithm
 
 
-## <img src="https://c.tenor.com/YnKbB-1kixMAAAAi/smartparcel-empty-box.gif" width="45px" height="50px"> String Sorting Algorithm using Selection Sort Algorithm
+## <img src="https://c.tenor.com/gHygBs_JkKwAAAAi/moving-boxes.gif" width="45px" height="50px"> String Sorting Algorithm using Selection Sort Algorithm
 1. Group Assignment of Programming Language Implementation and Paradigms (CPT316) Course.
 2. 3 members per group.
 3. My task: Implement string sorting algorithm using selection sort in Java programming language.
